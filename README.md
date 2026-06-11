@@ -1,2 +1,2 @@
 # Pokemon
-1st gen
+Figures of 1st gen pokemons
